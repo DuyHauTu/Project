@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\KTLTNC\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E020786B-6CC3-44D6-AFB0-F5912FC3414E}|WpfApp1\\WpfApp1.csproj|d:\\ktltnc\\project\\wpfapp1\\stressanalysis.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E020786B-6CC3-44D6-AFB0-F5912FC3414E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\stressanalysis.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E020786B-6CC3-44D6-AFB0-F5912FC3414E}|WpfApp1\\WpfApp1.csproj|d:\\ktltnc\\project\\wpfapp1\\livemonitor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E020786B-6CC3-44D6-AFB0-F5912FC3414E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\livemonitor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E020786B-6CC3-44D6-AFB0-F5912FC3414E}|WpfApp1\\WpfApp1.csproj|d:\\ktltnc\\project\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E020786B-6CC3-44D6-AFB0-F5912FC3414E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E020786B-6CC3-44D6-AFB0-F5912FC3414E}|WpfApp1\\WpfApp1.csproj|d:\\ktltnc\\project\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E020786B-6CC3-44D6-AFB0-F5912FC3414E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E020786B-6CC3-44D6-AFB0-F5912FC3414E}|WpfApp1\\WpfApp1.csproj|d:\\ktltnc\\project\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E020786B-6CC3-44D6-AFB0-F5912FC3414E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E020786B-6CC3-44D6-AFB0-F5912FC3414E}|WpfApp1\\WpfApp1.csproj|d:\\ktltnc\\project\\wpfapp1\\stressanalysis.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E020786B-6CC3-44D6-AFB0-F5912FC3414E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\stressanalysis.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E020786B-6CC3-44D6-AFB0-F5912FC3414E}|WpfApp1\\WpfApp1.csproj|d:\\ktltnc\\project\\wpfapp1\\livemonitor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E020786B-6CC3-44D6-AFB0-F5912FC3414E}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\livemonitor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E020786B-6CC3-44D6-AFB0-F5912FC3414E}|WpfApp1\\WpfApp1.csproj|d:\\ktltnc\\project\\wpfapp1\\livemonitor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -65,23 +65,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "StressAnalysis.xaml.cs",
+              "DocumentMoniker": "D:\\KTLTNC\\Project\\WpfApp1\\StressAnalysis.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\StressAnalysis.xaml.cs",
+              "ToolTip": "D:\\KTLTNC\\Project\\WpfApp1\\StressAnalysis.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\StressAnalysis.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T01:53:17.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\KTLTNC\\Project\\WpfApp1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
-              "ToolTip": "D:\\KTLTNC\\Project\\WpfApp1\\MainWindow.xaml",
-              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "D:\\KTLTNC\\Project\\WpfApp1\\MainWindow.xaml*",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-17T14:44:31.158Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LiveMonitor.xaml.cs",
               "DocumentMoniker": "D:\\KTLTNC\\Project\\WpfApp1\\LiveMonitor.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp1\\LiveMonitor.xaml.cs",
@@ -89,8 +101,7 @@
               "RelativeToolTip": "WpfApp1\\LiveMonitor.xaml.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:45:24.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:45:24.21Z"
             },
             {
               "$type": "Document",
@@ -101,34 +112,19 @@
               "ToolTip": "D:\\KTLTNC\\Project\\WpfApp1\\LiveMonitor.xaml",
               "RelativeToolTip": "WpfApp1\\LiveMonitor.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T15:41:50.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T15:41:50.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StressAnalysis.xaml.cs",
-              "DocumentMoniker": "D:\\KTLTNC\\Project\\WpfApp1\\StressAnalysis.xaml.cs",
-              "RelativeDocumentMoniker": "WpfApp1\\StressAnalysis.xaml.cs",
-              "ToolTip": "D:\\KTLTNC\\Project\\WpfApp1\\StressAnalysis.xaml.cs*",
-              "RelativeToolTip": "WpfApp1\\StressAnalysis.xaml.cs*",
-              "ViewState": "AgIAACUAAAAAAAAAAAAmwCMAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:53:17.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\KTLTNC\\Project\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
               "ToolTip": "D:\\KTLTNC\\Project\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T14:44:30.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T14:44:30.773Z"
             },
             {
               "$type": "Document",
@@ -139,8 +135,7 @@
               "ToolTip": "D:\\KTLTNC\\Project\\WpfApp1\\StressAnalysis.xaml",
               "RelativeToolTip": "WpfApp1\\StressAnalysis.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T15:42:40.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T15:42:40.586Z"
             },
             {
               "$type": "Document",
@@ -152,8 +147,7 @@
               "RelativeToolTip": "WpfApp1\\Relax.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAcwBQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T01:55:44.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T01:55:44.28Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "RelativeToolTip": "WpfApp1\\SensorData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T15:35:48.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T15:35:48.936Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "WpfApp1\\StressAnalyzer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T15:37:01.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T15:37:01.978Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,7 @@
               "RelativeToolTip": "WpfApp1\\BasicStressAnalyzer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T15:37:35.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T15:37:35.184Z"
             },
             {
               "$type": "Document",
@@ -214,8 +205,7 @@
               "ToolTip": "D:\\KTLTNC\\Project\\WpfApp1\\Relax.xaml",
               "RelativeToolTip": "WpfApp1\\Relax.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-17T15:43:00.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T15:43:00.38Z"
             },
             {
               "$type": "Document",
@@ -227,8 +217,7 @@
               "RelativeToolTip": "WpfApp1\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T02:13:39.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T02:13:39.689Z"
             },
             {
               "$type": "Document",
@@ -240,8 +229,7 @@
               "RelativeToolTip": "WpfApp1\\StressLevel.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T15:36:21.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T15:36:21.625Z"
             }
           ]
         }
